@@ -1,0 +1,99 @@
+﻿# Brand Heart
+
+***Identify your purpose, vision, mission, and values to build a brand with a strong foundation.***
+
+# Purpose
+
+
+### 1. Who are they?
+The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+
+### 2. What do they do?
+The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+
+### 3. Why does it matter?
+
+The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+
+# Vision Statement
+
+All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+
+### 1. Where do we want the organization to go?
+
+You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+
+### 2. What can the organization realistically achieve?
+
+You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+
+### 3. What problems does the organization intend to solve?
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 4. What are the changes we believe the organization can make for individuals? For the industry?
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 5. What phrases or keywords describe the type of organization and outcome they want?
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 6. What future does the organization want to help create? What does the future look like?
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+# Mission Statement
+
+ 
+### 1. How can the organization achieve its vision?
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 2. What are they here to do? How do they create that future?
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+# Brand Values
+
+### 1. Identify consumer’s main problem?
+
+   You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 2.  Identify all the benefits your product offers?
+    
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 3.  Describe what makes these benefits valuable?
+    
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 4.  Connect this value to your buyer's problem?
+    
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+  
+### 5.  Differentiate yourself as the preferred provider of this value?
+    
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+### 6.  The outcomes of those differentiating values?
+    
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+  
+### 7.  How will the organization conduct itself in support and pursuit of its mission?
+
+You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+
+## The Matrix
+
+You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+
+
+|                        |             |               |                         |  
+|-----------------------|-----------------|---------------------|-------------------------|
+|**External**	 		|***Value Proposition*** - What are our key offerings, and how do we want them to appeal to customers and other stakeholders? |***Relationships*** - What should be the nature of our relationships with key customers and other stakeholders? |***Position*** - What are our intended position in the market and the hearts and minds of key customers and other stakeholders? |
+|**External/ Internal**	|***Expression*** - What is distinctive about the way we communicate and express ourselves and makes it possible to recognize us at a distance?  |***Brand Core*** - What do we promise, and what are the core values that sum up what our brand stands for? |***Personality*** - What combination of human characteristics or qualities forms our corporate character? |
+|**Internal**			|***Mission & Vision*** - What engages us (mission)? What is our direction and inspiration (vision)? |***Culture*** - What are our attitudes, and how do we work and behave? |***Competences*** - What are we particularly good at, and what makes us better than the competition? |
+
+
+
