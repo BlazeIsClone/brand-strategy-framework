@@ -2,10 +2,6 @@
 
 Identify your purpose, vision, mission, and values to build a brand with a strong foundation.
 
-<hr/>
-
-# Finding Purpose
-
 ### 1. What does the organization do?
 
 Products or services and the impact.
