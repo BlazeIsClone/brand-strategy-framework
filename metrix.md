@@ -81,7 +81,7 @@ The corporate personality or character underpins the company’s brand core and 
 
 [<- Previous Page](./messaging.html)
 |
-[Next Page ->](./checklist.md.html)
+[Next Page ->](./checklist.html)
 
 <hr/>
 
