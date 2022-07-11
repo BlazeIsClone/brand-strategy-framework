@@ -36,9 +36,9 @@ Brand voice is the way you talk to your customers and is defined by your brand's
 
 <hr/>
 
-[<- Previous Page](./03.positioning.html)
+[<- Previous Page](./positioning.html)
 |
-[Next Page ->](./05.messaging.html)
+[Next Page ->](./messaging.html)
 
 <hr/>
 
