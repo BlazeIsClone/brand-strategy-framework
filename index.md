@@ -6,18 +6,18 @@ By using a brand framework you can make sure that all customer communications an
 
 ## Table Of Contents
 
-1. [Introduction](./01.introduction.md)
-2. [Identity](./02.identity.md)
-3. [Purpose](./03.purpose.md)
-4. [Vision](./04.vision.md)
-5. [Mission](./05.mission.md)
-6. [Audience](./06.audience.md)
-7. [Values](./07.values.md)
-8. [Positioning](./08.positioning.md)
-9. [Voice](./09.voice.md)
-10. [Messaging](./10.messaging.md)
-11. [Metrix](./08.metrix.md)
-12. [Checklist](./12.checklist.md)
+1. [Introduction](./introduction.md)
+2. [Identity](./identity.md)
+3. [Purpose](./purpose.md)
+4. [Vision](./vision.md)
+5. [Mission](./mission.md)
+6. [Audience](./audience.md)
+7. [Values](./values.md)
+8. [Positioning](./positioning.md)
+9. [Voice](./voice.md)
+10. [Messaging](./messaging.md)
+11. [Metrix](./metrix.md)
+12. [Checklist](./checklist.md)
 
 <hr/>
 
