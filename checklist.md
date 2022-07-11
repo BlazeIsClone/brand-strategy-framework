@@ -16,7 +16,5 @@ Design an effective and comprehensive visual identity that communicates who you 
 <hr/>
 
 [<- Previous Page](./purpose.html)
-|
-[Next Page ->](./mission.html)
 
 <hr/>
