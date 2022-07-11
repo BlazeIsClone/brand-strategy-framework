@@ -21,7 +21,7 @@ By using a brand framework you can make sure that all customer communications an
 
 <hr/>
 
-[Next Page ->](./01.purpose.html)
+[Next Page ->](./purpose.html)
 
 <hr/>
 
