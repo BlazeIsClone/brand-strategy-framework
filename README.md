@@ -9,4 +9,4 @@ This framework provides a strategic structure for building scalable brand identi
 
 Contributions are always welcome!
 
-[![Code Of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-green.svg)](./LICENSE)
+[![Code Of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-green.svg)](./CODE_OF_CONDUCT.md)
