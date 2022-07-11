@@ -1,6 +1,6 @@
 # Voice
 
-Brand voice is the way you talk to your customers and is defined by your brand's style of communication.
+People don't fall for corporations, people fall in love with presonalities. The brand voice is the way we talk to our audience and is defined by the brand's style of communication.
 
 #### 1. When people interact with our brand, how do we want them to feel?
 
@@ -21,10 +21,6 @@ Brand voice is the way you talk to your customers and is defined by your brand's
 #### 9. What does it hate?
 
 #### 10. What does it love?
-
-#### 11. Brand personality archetype?
-
-[Find Your Archetype](https://www.kayeputnam.com/brand-archetypes/)
 
 #### 12. Brand marketing dimension?
 

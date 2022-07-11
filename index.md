@@ -12,12 +12,13 @@ By using a brand framework you can make sure that all customer communications an
 4. [Vision](./vision.md)
 5. [Mission](./mission.md)
 6. [Audience](./audience.md)
-7. [Values](./values.md)
+7. [Personality](./personality.md)
 8. [Positioning](./positioning.md)
-9. [Voice](./voice.md)
-10. [Messaging](./messaging.md)
-11. [Metrix](./metrix.md)
-12. [Checklist](./checklist.md)
+9. [Values](./values.md)
+10. [Voice](./voice.md)
+11. [Messaging](./messaging.md)
+12. [Metrix](./metrix.md)
+13. [Checklist](./checklist.md)
 
 <hr/>
 

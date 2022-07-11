@@ -1,15 +1,14 @@
-﻿# Visual Identity Checklist
-
-Design an effective and comprehensive visual identity that communicates who you are.
+﻿# Visual Identity Applications
 
 - Logotype
 - Colours
 - Typography
-- Hirearchy
 - Photography
 - Illustrations
 - Iconography
-- Data Visualization
+- Print Media
+- Brand Collateral
+- Data Visualizations
 - Video & Motion Graphics
 - Web design & Interactivity
 
