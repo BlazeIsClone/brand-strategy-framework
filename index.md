@@ -6,7 +6,7 @@ By using a brand framework you can make sure that all customer communications an
 
 ## Table Of Contents
 
-1. [Identity](./01.introduction.md)
+1. [Introduction](./01.introduction.md)
 2. [Identity](./02.identity.md)
 3. [Purpose](./03.purpose.md)
 4. [Vision](./04.vision.md)
@@ -18,6 +18,10 @@ By using a brand framework you can make sure that all customer communications an
 10. [Messaging](./10.messaging.md)
 11. [Metrix](./08.metrix.md)
 12. [Checklist](./12.checklist.md)
+
+<hr/>
+
+[Next Page ->](./01.purpose.html)
 
 <hr/>
 

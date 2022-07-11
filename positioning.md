@@ -31,9 +31,11 @@ Unlike `THE ALTERNATIVE`, we `KEY DIFFERENTIATOR`.
 
 > We offer water bottles for hikers to stay hydrated, while reducing their carbon footprint. Unlike other water bottle brands, we plant a tree for every bottle you buy.
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./03.values.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./05.voice.html)
 
 <hr/>
 

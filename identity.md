@@ -24,9 +24,9 @@ Brand as organisation is all about defining your business culture - the attribut
 
 lastly brand as symbol explores the visual: is there imagery that best sums up what you stand for and how you wish to be perceived?
 
-[< Previous Page](./01.introduction.html)
+[<- Previous Page](./introduction.html)
 |
-[Next Page >](./03.purpose.html)
+[Next Page ->](./purpose.html)
 
 <hr/>
 

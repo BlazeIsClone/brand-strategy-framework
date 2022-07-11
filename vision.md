@@ -41,9 +41,11 @@ customer-centric, warmth, self-organized, inspire.
 
 - Google: “To provide access to the world’s information in one click.”
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./vision.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./mission.html)
 
 <hr/>
 

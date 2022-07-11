@@ -11,9 +11,11 @@ A simplistic way to sum this up is as follows:
 
 Throwing some ideas together with a logo is not a brand strategy. It’s certainly part of creating the brand, but it also includes what your goals are, who your customers are, what your brand stands for, what is the long-term vision for the brand. A well-executed brand strategy has the ability to influence the entire business or ultimately the industry as a whole.
 
-[< Previous Page](./01.index.html)
+<hr/>
+
+[<- Previous Page](./index.html)
 |
-[Next Page >](./03.purpose.html)
+[Next Page ->](./purpose.html)
 
 <hr/>
 

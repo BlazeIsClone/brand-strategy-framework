@@ -13,6 +13,10 @@ Design an effective and comprehensive visual identity that communicates who you 
 - Video & Motion Graphics
 - Web design & Interactivity
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./purpose.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./mission.html)
+
+<hr/>

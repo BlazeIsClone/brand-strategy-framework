@@ -60,9 +60,11 @@ Notice that Zipcar is not targeting all residents of a particular city. They’r
 
 These are all interests and behaviors that Zipcar can specifically target using social ads. They also help to guide the company’s overall approach to its social media marketing strategy. That’s clear in this thread about sustainable habits for World Environment Day.
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./mission.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./values.html)
 
 <hr/>
 

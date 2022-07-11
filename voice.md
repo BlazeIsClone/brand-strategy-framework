@@ -34,9 +34,11 @@ Brand voice is the way you talk to your customers and is defined by your brand's
 
 > We offer water bottles for hikers to stay hydrated, while reducing their carbon footprint. Unlike other water bottle brands, we plant a tree for every bottle you buy.
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./03.positioning.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./05.messaging.html)
 
 <hr/>
 

@@ -12,9 +12,11 @@ Brand voice is the way you talk to your customers and is defined by your brand's
 
 #### 5. Value Proposition?
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./voice.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./metrix.html)
 
 <hr/>
 

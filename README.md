@@ -1,7 +1,12 @@
-# The Open Brand Framework
+# [The Open Brand Framework](https://blazeisclone.github.io/open-brand-framework)
+
+[![Contributing](https://img.shields.io/badge/Contributing-Guidelines-red.svg)](./LICENSE)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](./LICENSE)
 
 This framework provides a strategic structure for building scalable brand identities.
 
-<hr/>
+## 💖 Contributing
 
-[Introduction](https://github.com/BlazeIsClone/open-brand-framework/blob/main/docs/01.introduction.md)
+Contributions are always welcome!
+
+[![Code Of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-green.svg)](./LICENSE)

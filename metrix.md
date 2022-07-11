@@ -77,9 +77,11 @@ Our communication style is…
 
 The corporate personality or character underpins the company’s brand core and is expressed in myriad ways, from product design and the architecture of the headquarters to the corporate logo and marketing taglines. Assess how well that personality comes through in all communications, both internally and externally.
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./messaging.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./checklist.md.html)
 
 <hr/>
 

@@ -69,9 +69,11 @@ However, Tesla is an interesting example, as it demonstrates the tension between
 
 While a brand (and its personality extensions) should represent its core values, it’s crucial to balance these with the brand’s core values in the marketplace, which are often broader and go beyond the larger-than-life personality of the founder.
 
-[< Previous Page](./03.purpose.md)
+<hr/>
+
+[<- Previous Page](./audience.html)
 |
-[Next Page >](./05.mission.md)
+[Next Page ->](./positioning.html)
 
 <hr/>
 
