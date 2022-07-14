@@ -24,7 +24,7 @@ This statement should capture the key elements of the organization’s past and 
 
 [<- Previous Page](./purpose.html)
 |
-[Next Page ->](./audience.html)
+[Next Page ->](./values.html)
 
 <hr/>
 
