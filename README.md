@@ -1,4 +1,4 @@
-# [The Open Brand Framework](https://blazeisclone.github.io/open-brand-framework)
+# [Brand Strategy Framework](https://blazeisclone.github.io/brand--strategy-framework)
 
 [![Contributing](https://img.shields.io/badge/Contributing-Guidelines-red.svg)](./CONTRIBUTING.md)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](./LICENSE)
