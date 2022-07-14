@@ -19,7 +19,7 @@ By referencing this brand framework we can make sure that all audience communica
 
 ## Strategy
 
-1. [Introduction](./strategy/introduction.md)
+1. [Introduction](./strategy/index.md)
 2. [Prerequisites](./strategy/prerequisites.md)
 3. [Purpose](./strategy/purpose.md)
 4. [Vision](./strategy/vision.md)
