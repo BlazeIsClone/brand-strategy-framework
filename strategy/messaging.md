@@ -2,7 +2,15 @@
 
 Brand voice is the way you talk to your customers and is defined by your brand's style of communication.
 
-Body Goes Here
+#### 1. Do they support your communication goals?
+
+#### 2. When read out loud, do they sound conversational?
+
+#### 3. Can you simplify the language or make statements more concise?
+
+#### 4. Do they motivate the target audience to act?
+
+#### 4. Brand Pillars?
 
 <hr/>
 
@@ -14,5 +22,4 @@ Body Goes Here
 
 ### References
 
-[How To Build A Brand](https://www.shopify.com/blog/how-to-build-a-brand)
-[Brand Positioning Statement](https://www.risefuel.com/blog/what-is-a-positioning-statement)
+[Developing Key Messages for Effective Communication](https://msktc.org/sites/default/files/Key_Message_Development_508.pdf)

@@ -1,6 +1,6 @@
 # Visual Identity
 
-silence is golden
+Investigation and analysis are complete; the brand brief has been agreed upon, and the creative design process begins now.
 
 <hr/>
 

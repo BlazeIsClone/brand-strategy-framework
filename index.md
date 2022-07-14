@@ -1,21 +1,22 @@
 ﻿## Brand Strategy Introduction
 
-Before we start, these are the stages which a brand has to go though before being introduced to the market:
+Before we start, these are the stages which a brand has to go though before entering to the market:
 
-1. Product/service idea
-1. Brand research
-1. Brand strategy
-1. Brand visual identity
-1. Marketing
+1. Conducting research
+2. Clarifying strategy
+3. Designing identity
+4. Creating touchpoints
+5. Managing assets
 
 ## Framework Overview
 
-By referencing this brand framework we can make sure that all audience communications and messages are supported by, and evolved from, a set of brand values that make up our brand's personality. A well defined brand strategy can help position an organisation against its competitors, find a niche in the market and influence perceptions customers have. This framework is focused on scaffolding a solid foundation for building scalable brand identities.
+This Branding Framework is a reference guide focused on scaffolding a solid foundation for building scalable brand identities. By referencing this brand framework we can make sure that all audience communications and messages are supported by, and evolved from, a set of brand values that make up our brand's personality. A well defined brand strategy can help position an organisation against its competitors, find a niche in the market and influence perceptions customers have.
 
 ## Research
 
-1. [Target Audience](./research/audience.md)
-2. [Brand Identity](./research/identity.md)
+1. [Introduction](./research/index.md)
+2. [Target Audience](./research/audience.md)
+3. [Brand Identity](./research/identity.md)
 
 ## Strategy
 
@@ -33,11 +34,10 @@ By referencing this brand framework we can make sure that all audience communica
 12. [Messaging](./strategy/messaging.md)
 13. [Positioning](./strategy/positioning.md)
 14. [Metrix](./strategy/metrix.md)
-15. [Checklist](./strategy/checklist.md)
 
 ## Visual Identity
 
-1. [Coming Soon](./visual-identity/index.md)
+1. [Introduction](./visual-identity/index.md)
 
 <hr/>
 
