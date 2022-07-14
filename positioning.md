@@ -33,9 +33,9 @@ Unlike `THE ALTERNATIVE`, we `KEY DIFFERENTIATOR`.
 
 <hr/>
 
-[<- Previous Page](./values.html)
+[<- Previous Page](./messaging.html)
 |
-[Next Page ->](./voice.html)
+[Next Page ->](./metrix.html)
 
 <hr/>
 

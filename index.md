@@ -36,8 +36,14 @@ By referencing this brand strategy framework you can make sure that all customer
 10. [Value Proposition](./value-proposition.md)
 11. [Tagline](./tagline.md)
 12. [Messaging](./messaging.md)
-13. [Metrix](./metrix.md)
-14. [Checklist](./checklist.md)
+13. [Positioning](./positioning.md)
+14. [Metrix](./metrix.md)
+15. [Checklist](./checklist.md)
+
+## Additional Resources
+
+1. [Target Audience](./audience.md)
+2. [Brand Identity](./identity.md)
 
 <hr/>
 
