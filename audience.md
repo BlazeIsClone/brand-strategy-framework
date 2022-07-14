@@ -62,9 +62,7 @@ These are all interests and behaviors that Zipcar can specifically target using 
 
 <hr/>
 
-[<- Previous Page](./mission.html)
-|
-[Next Page ->](./values.html)
+[Index Page](./index.html)
 
 <hr/>
 
