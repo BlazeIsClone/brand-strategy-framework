@@ -6,7 +6,7 @@ Follow these steps sequentially , and we’ll end up with a comprehensive brand 
 
 [<- Previous Page](./index.html)
 |
-[Next Page ->](./purpose.html)
+[Next Page ->](./prerequisites.html)
 
 <hr/>
 
