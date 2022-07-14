@@ -14,30 +14,30 @@ By referencing this brand framework we can make sure that all audience communica
 
 ## Research
 
-1. [Target Audience](./audience.md)
-2. [Brand Identity](./identity.md)
+1. [Target Audience](./research/audience.md)
+2. [Brand Identity](./research/identity.md)
 
 ## Strategy
 
-1. [Introduction](./introduction.md)
-2. [Prerequisites](./prerequisites.md)
-3. [Purpose](./purpose.md)
-4. [Vision](./vision.md)
-5. [Mission](./mission.md)
-6. [Values](./values.md)
-7. [Personality](./personality.md)
-8. [Voice](./voice.md)
-9. [Tone](./tone.md)
-10. [Value Proposition](./value-proposition.md)
-11. [Tagline](./tagline.md)
-12. [Messaging](./messaging.md)
-13. [Positioning](./positioning.md)
-14. [Metrix](./metrix.md)
-15. [Checklist](./checklist.md)
+1. [Introduction](./strategy/introduction.md)
+2. [Prerequisites](./strategy/prerequisites.md)
+3. [Purpose](./strategy/purpose.md)
+4. [Vision](./strategy/vision.md)
+5. [Mission](./strategy/mission.md)
+6. [Values](./strategy/values.md)
+7. [Personality](./strategy/personality.md)
+8. [Voice](./strategy/voice.md)
+9. [Tone](./strategy/tone.md)
+10. [Value Proposition](./strategy/value-proposition.md)
+11. [Tagline](./strategy/tagline.md)
+12. [Messaging](./strategy/messaging.md)
+13. [Positioning](./strategy/positioning.md)
+14. [Metrix](./strategy/metrix.md)
+15. [Checklist](./strategy/checklist.md)
 
 ## Visual Identity
 
-1. [Coming Soon](./index.md)
+1. [Coming Soon](./visual-identity/index.md)
 
 <hr/>
 

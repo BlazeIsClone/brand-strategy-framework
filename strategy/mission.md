@@ -22,9 +22,9 @@ This statement should capture the key elements of the organization’s past and 
 
 <hr/>
 
-[<- Previous Page](./purpose.html)
+[<- Previous Page](./purpose.md)
 |
-[Next Page ->](./values.html)
+[Next Page ->](./values.md)
 
 <hr/>
 

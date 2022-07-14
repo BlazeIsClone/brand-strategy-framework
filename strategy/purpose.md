@@ -26,9 +26,9 @@ It’s a purpose, cause or belief. It’s the very reason the organization's exi
 
 <hr/>
 
-[<- Previous Page](./prerequisites.html)
+[<- Previous Page](./prerequisites.md)
 |
-[Next Page ->](./vision.html)
+[Next Page ->](./vision.md)
 
 <hr/>
 

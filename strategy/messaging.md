@@ -6,9 +6,9 @@ Body Goes Here
 
 <hr/>
 
-[<- Previous Page](./voice.html)
+[<- Previous Page](./voice.md)
 |
-[Next Page ->](./metrix.html)
+[Next Page ->](./metrix.md)
 
 <hr/>
 

@@ -46,9 +46,9 @@ All of this means that when we write copy:
 
 <hr/>
 
-[<- Previous Page](./positioning.html)
+[<- Previous Page](./positioning.md)
 |
-[Next Page ->](./messaging.html)
+[Next Page ->](./messaging.md)
 
 <hr/>
 

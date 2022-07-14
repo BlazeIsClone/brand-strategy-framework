@@ -4,9 +4,9 @@ Body Goes Here
 
 <hr/>
 
-[<- Previous Page](./tone.html)
+[<- Previous Page](./tone.md)
 |
-[Next Page ->](./tagline.html)
+[Next Page ->](./tagline.md)
 
 <hr/>
 

@@ -10,9 +10,9 @@
 
 <hr/>
 
-[<- Previous Page](./value-proposition.html)
+[<- Previous Page](./value-proposition.md)
 |
-[Next Page ->](./messaging.html)
+[Next Page ->](./messaging.md)
 
 <hr/>
 

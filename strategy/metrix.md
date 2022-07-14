@@ -66,7 +66,7 @@ This section reveals how well your organizational values and culture resonate wi
 
 THE horizontal pass focuses on
 
-<img src="./assets/images/metrix-communication.png" width="200"/>
+<img src="../assets/images/metrix-communication.png" width="200"/>
  
 <br/>
 
@@ -79,9 +79,9 @@ The corporate personality or character underpins the company’s brand core and 
 
 <hr/>
 
-[<- Previous Page](./messaging.html)
+[<- Previous Page](./messaging.md)
 |
-[Next Page ->](./checklist.html)
+[Next Page ->](./checklist.md)
 
 <hr/>
 

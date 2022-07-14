@@ -43,9 +43,9 @@ customer-centric, warmth, self-organized, inspire.
 
 <hr/>
 
-[<- Previous Page](./vision.html)
+[<- Previous Page](./vision.md)
 |
-[Next Page ->](./mission.html)
+[Next Page ->](./mission.md)
 
 <hr/>
 

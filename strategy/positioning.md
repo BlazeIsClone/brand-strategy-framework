@@ -27,7 +27,7 @@ One single point that makes their product or service different from the rest.
 We offer `PRODUCT/SERVICE` for `TARGET MARKET` to `VALUE PROPOSITION`.
 Unlike `THE ALTERNATIVE`, we `KEY DIFFERENTIATOR`.
 
-<img src="./assets/images/positioning-map.png" width="600"/>
+<img src="../assets/images/positioning-map.png" width="600"/>
 
 ## Examples
 
@@ -35,9 +35,9 @@ Unlike `THE ALTERNATIVE`, we `KEY DIFFERENTIATOR`.
 
 <hr/>
 
-[<- Previous Page](./messaging.html)
+[<- Previous Page](./messaging.md)
 |
-[Next Page ->](./metrix.html)
+[Next Page ->](./metrix.md)
 
 <hr/>
 

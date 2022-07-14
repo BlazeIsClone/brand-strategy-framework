@@ -12,4 +12,17 @@ Mailchimp has a sense of humor, so feel free to be funny when it’s appropriate
 
 ### References
 
-[Mailchimp Content Style Guide](https://styleguide.mailchimp.com/voice-and-tone/)
+[Mailchimp Content Style Guide](https://styleguide.mailchimp.com/voice-and-tone)
+
+<hr/>
+
+[<- Previous Page](./voice.md)
+|
+[Next Page ->](./value-proposition.md)
+
+<hr/>
+
+### References
+
+[How To Build A Brand](https://www.shopify.com/blog/how-to-build-a-brand)
+[Brand Positioning Statement](https://www.risefuel.com/blog/what-is-a-positioning-statement)

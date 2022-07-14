@@ -13,9 +13,7 @@ Follow these steps sequentially , and we’ll end up with a comprehensive brand 
 
 <hr/>
 
-[<- Previous Page](./index.html)
-|
-[Next Page ->](./prerequisites.html)
+[Next Page ->](./prerequisites.md)
 
 <hr/>
 

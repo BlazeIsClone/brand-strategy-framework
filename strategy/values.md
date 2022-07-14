@@ -71,9 +71,9 @@ While a brand (and its personality extensions) should represent its core values,
 
 <hr/>
 
-[<- Previous Page](./mission.html)
+[<- Previous Page](./mission.md)
 |
-[Next Page ->](./personality.html)
+[Next Page ->](./personality.md)
 
 <hr/>
 

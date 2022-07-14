@@ -13,6 +13,6 @@
 
 <hr/>
 
-[<- Previous Page](./purpose.html)
+[<- Previous Page](./purpose.md)
 
 <hr/>

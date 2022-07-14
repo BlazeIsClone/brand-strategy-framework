@@ -31,9 +31,9 @@ Even if people loves or hates you they will still talk about you, but they would
 
 <hr/>
 
-[<- Previous Page](./values.html)
+[<- Previous Page](./values.md)
 |
-[Next Page ->](./voice.html)
+[Next Page ->](./voice.md)
 
 <hr/>
 
