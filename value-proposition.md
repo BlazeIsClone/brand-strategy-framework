@@ -1,6 +1,6 @@
 # Value Proposition
 
-Body Text goes here
+Body Goes Here
 
 <hr/>
 
