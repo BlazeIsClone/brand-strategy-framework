@@ -4,7 +4,7 @@ A strong corporate identity provides direction and purpose, boosts the standing 
 
 <br/>
 
-<img src="./assets/images/brand-identity-metrix.png" width="800"/>
+<img src="../assets/images/brand-identity-metrix.png" width="800"/>
 
 <br/>
 
@@ -12,7 +12,7 @@ A strong corporate identity provides direction and purpose, boosts the standing 
 
 The baroque diagonal focuses on
 
-<img src="./assets/images/metrix-strategy.png" width="200"/>
+<img src="../assets/images/metrix-strategy.png" width="200"/>
  
  <br/>
 
@@ -34,7 +34,7 @@ Finally, does the logic also flow in the other direction: Does your positioning 
 
 The sinister diagonal focuses on
 
-<img src="./assets/images/metrix-competition.png" width="200"/>
+<img src="../assets/images/metrix-competition.png" width="200"/>
  
 <br/>
 
@@ -51,7 +51,7 @@ Do your current competences allow you to keep your promise and provide a solid b
 
 THE vertical pass focuses on
 
-<img src="./assets/images/metrix-interaction.png" width="200"/>
+<img src="../assets/images/metrix-interaction.png" width="200"/>
  
 <br/>
 
