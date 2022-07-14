@@ -19,3 +19,17 @@ This is invaluable information to help you identify who you are and who you aren
 <img src="./assets/images/positioning-map.png" width="600"/>
 
 - Use the Competitive Analysis
+
+<hr/>
+
+[<- Previous Page](./introduction.html)
+|
+[Next Page ->](./purpose.html)
+
+<hr/>
+
+### References
+
+[Creating and managing a coherent brand strategy](https://www.liquidlight.co.uk/blog/brand-frameworks-creating-and-managing-a-coherent-brand-strategy/)
+
+[How To Create A Brand Strategy](https://www.columnfivemedia.com/how-to-create-a-brand-strategy/)

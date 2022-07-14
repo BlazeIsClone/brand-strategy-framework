@@ -25,7 +25,7 @@ By referencing this brand strategy framework you can make sure that all customer
 ## Table Of Contents
 
 1. [Introduction](./introduction.md)
-2. [Identity](./identity.md)
+2. [Prerequisites](./prerequisites.md)
 3. [Purpose](./purpose.md)
 4. [Vision](./vision.md)
 5. [Mission](./mission.md)
