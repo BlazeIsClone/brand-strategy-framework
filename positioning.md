@@ -27,6 +27,8 @@ One single point that makes their product or service different from the rest.
 We offer `PRODUCT/SERVICE` for `TARGET MARKET` to `VALUE PROPOSITION`.
 Unlike `THE ALTERNATIVE`, we `KEY DIFFERENTIATOR`.
 
+<img src="./assets/images/positioning-map.png" width="600"/>
+
 ## Examples
 
 > We offer water bottles for hikers to stay hydrated, while reducing their carbon footprint. Unlike other water bottle brands, we plant a tree for every bottle you buy.

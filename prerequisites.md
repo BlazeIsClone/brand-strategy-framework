@@ -1,24 +1,22 @@
 # Prerequisites
 
-If you’re starting your brand strategy from scratch or trying to do things the “right” way this time, there are two key pieces of information you need to know beforehand. They are as follows:
+If we’re starting the brand strategy from scratch or trying to do things the “right” way this time, there are two key pieces of information we need to know beforehand. They are as follows:
 
-#### 1. Who are you for
+#### 1. Who are we for?
 
-Who are you trying to sell to? What do they need/want? How are their needs not being met?
+Who are we trying to sell to? What do they need/want? How are their needs not being met?
 
-To build a brand strategy that helps you genuinely connect with people, you need to know exactly who you’re selling to. Knowing who they are and how you’re trying to serve them can actually bring clarity to who you are (e.g., your Brand Heart) and how you communicate with them.
+To build a brand strategy that helps us genuinely connect with people, we need to know exactly who we’re selling to. Knowing who they are and how we’re trying to serve them can actually bring clarity to who we are and how we communicate with them.
 
-- Create Personas.
+[Target Audience](./audience.html)
 
-#### 2. Who are you against
+#### 2. Who are we against?
 
-Who shares your space? Who will you be competing with for attention? How might they outshine you?
+Who shares our space? Who will we be competing with for attention? How might they outshine us?
 
-This is invaluable information to help you identify who you are and who you aren’t, how you fit in or stand out, and how you can communicate your differences through your brand strategy.
+This is invaluable information to help us identify who we are and who we aren’t, how we fit in or stand out, and how we can communicate our differences through our brand strategy.
 
-<img src="./assets/images/positioning-map.png" width="600"/>
-
-- Use the Competitive Analysis
+[Differentiation](./differentiation.html)
 
 <hr/>
 
