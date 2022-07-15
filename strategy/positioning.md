@@ -1,6 +1,6 @@
 # Positioning
 
-Positioning is about finding the `GAP` in the market. Effective brand positioning can extent to which a brand is perceived as favourable, different, and credible in consumers' minds.
+Positioning is a process to identify what boldly differentiates a brand in the mind of a customer. Customers are overwhelmed with choices. Positioning has the potential to create new openings in an oversaturated, continually changing marketplace. Effective brand positioning can extent to which a brand is perceived as favourable, different, and credible in consumers minds. Simply put it's about identifing the `GAP` in the market.
 
 #### 01. Positioning Strategy
 
@@ -44,4 +44,5 @@ Unlike `THE ALTERNATIVE`, we `KEY DIFFERENTIATOR`.
 ### References
 
 [How To Build A Brand](https://www.shopify.com/blog/how-to-build-a-brand)
+
 [Brand Positioning Statement](https://www.risefuel.com/blog/what-is-a-positioning-statement)

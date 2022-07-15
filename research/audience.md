@@ -62,7 +62,9 @@ These are all interests and behaviors that Zipcar can specifically target using 
 
 <hr/>
 
-[Index Page](../index.md)
+[<- Previous Page](./identity.md)
+|
+[Next Page ->](./differentiation.md)
 
 <hr/>
 
