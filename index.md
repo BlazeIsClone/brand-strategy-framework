@@ -17,6 +17,7 @@ This Branding Framework is a reference guide focused on scaffolding a solid foun
 1. [Introduction](./research/index.md)
 2. [Target Audience](./research/audience.md)
 3. [Brand Identity](./research/identity.md)
+4. [Differenciation](./research/differentiation.md)
 
 ## Strategy
 
@@ -38,9 +39,7 @@ This Branding Framework is a reference guide focused on scaffolding a solid foun
 ## Visual Identity
 
 1. [Introduction](./visual-identity/index.md)
-
-<hr/>
-
-[Next Page ->](./purpose.md)
+1. [Logotype](./visual-identity/logotype.md)
+1. [Colors](./visual-identity/colors.md)
 
 <hr/>
