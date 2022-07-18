@@ -8,7 +8,7 @@ You can sell to everyone, but we can’t target everyone with all of our social 
 
 #### 1. What does this product/service solve for the target audience?
 
-Identifying the problem or insufficiency our organization is responding to help to understand the groups which appeal to.
+Identifying the problem or insufficiency our organization is responding to help to understand the groups which appeal to. Here we can focus on how their needs not being met.
 
 #### 2. Buying role of the target consumer?
 
@@ -23,8 +23,6 @@ Identifying the problem or insufficiency our organization is responding to help 
 *   User: The person(s) who consumes or uses the product or service.
 
 *   Gatekeeper: The person(s) who controls information or access, or both, to decision-makers and influencers.
-
-*   Age: You don’t need to get too specific here. Focus on learning which decade of life our social media target audience is in, or their generation.
 
 ### Market Segmentation
 
