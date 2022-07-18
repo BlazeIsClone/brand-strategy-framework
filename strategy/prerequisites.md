@@ -8,7 +8,7 @@ Who are we trying to sell to? What do they need/want? How are their needs not be
 
 To build a brand strategy that helps us genuinely connect with people, we need to know exactly who we’re selling to. Knowing who they are and how we’re trying to serve them can actually bring clarity to who we are and how we communicate with them.
 
-[Target Audience](./audience.md)
+[Target Audience](../research/audience.md)
 
 #### 2. Who are we against?
 
@@ -16,7 +16,7 @@ Who shares our space? Who will we be competing with for attention? How might the
 
 This is invaluable information to help us identify who we are and who we aren’t, how we fit in or stand out, and how we can communicate our differences through our brand strategy.
 
-[Differentiation](./differentiation.md)
+[Differentiation](../research/differentiation.md)
 
 <hr/>
 
