@@ -4,7 +4,7 @@ If weâ€™re starting our brand strategy from scratch or trying to do things the â
 
 <hr/>
 
-[Next Page ->](./identity.md)
+[Next Page ->](./purpose.md)
 
 <hr/>
 

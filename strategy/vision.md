@@ -34,7 +34,7 @@ customer-centric, warmth, self-organized, inspire.
 
 - Amazon: “Our vision is to be earth’s most customer-centric company; to build a place where people can come to find and discover anything they might want to buy online.”
 
-* Ben & Jerry’s: “Making the best ice cream in the nicest possible way.”
+- Ben & Jerry’s: “Making the best ice cream in the nicest possible way.”
   Caterpillar: “Our vision is a world in which all people’s basic needs – such as shelter, clean water, sanitation, food, and reliable power – are fulfilled in an environmentally sustainable way, and a company that improves the quality of the environment and the communities where we live and work.”
 
 - Cradles to Crayons: “Provides children from birth through age 12, living in homeless or low-income situations, with the essential items they need to thrive – at home, at school, and at play.”
@@ -43,7 +43,7 @@ customer-centric, warmth, self-organized, inspire.
 
 <hr/>
 
-[<- Previous Page](./vision.md)
+[<- Previous Page](./prerequisites.md)
 |
 [Next Page ->](./mission.md)
 

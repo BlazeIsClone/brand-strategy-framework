@@ -12,29 +12,29 @@ Before we start, these are the stages which a brand has to go though before ente
 
 This Branding Framework is a reference guide focused on scaffolding a solid foundation for building scalable brand identities. By referencing this brand framework we can make sure that all audience communications and messages are supported by, and evolved from, a set of brand values that make up our brand's personality. A well defined brand strategy can help position an organisation against its competitors, find a niche in the market and influence perceptions customers have.
 
-## Research
+## Foundation
 
-1. [Introduction](./research/index.md)
-2. [Target Audience](./research/audience.md)
-3. [Brand Identity](./research/identity.md)
-4. [Differenciation](./research/differentiation.md)
+1. [Introduction](./foundation/index.md)
+2. [Purpose](./foundation/purpose.md)
+3. [Target Audience](./foundation/audience.md)
+4. [Brand Identity](./foundation/identity.md)
+5. [Differenciation](./foundation/differentiation.md)
 
 ## Strategy
 
 1. [Introduction](./strategy/index.md)
 2. [Prerequisites](./strategy/prerequisites.md)
-3. [Purpose](./strategy/purpose.md)
-4. [Vision](./strategy/vision.md)
-5. [Mission](./strategy/mission.md)
-6. [Values](./strategy/values.md)
-7. [Personality](./strategy/personality.md)
-8. [Voice](./strategy/voice.md)
-9. [Tone](./strategy/tone.md)
-10. [Value Proposition](./strategy/value-proposition.md)
-11. [Tagline](./strategy/tagline.md)
-12. [Messaging](./strategy/messaging.md)
-13. [Positioning](./strategy/positioning.md)
-14. [Metrix](./strategy/metrix.md)
+3. [Vision](./strategy/vision.md)
+4. [Mission](./strategy/mission.md)
+5. [Values](./strategy/values.md)
+6. [Personality](./strategy/personality.md)
+7. [Voice](./strategy/voice.md)
+8. [Tone](./strategy/tone.md)
+9. [Value Proposition](./strategy/value-proposition.md)
+10. [Tagline](./strategy/tagline.md)
+11. [Messaging](./strategy/messaging.md)
+12. [Positioning](./strategy/positioning.md)
+13. [Metrix](./strategy/metrix.md)
 
 ## Visual Identity
 

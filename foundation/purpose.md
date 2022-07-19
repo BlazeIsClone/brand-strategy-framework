@@ -10,7 +10,7 @@ Products or services and the impact.
 
 The unique pproach to achieving the desired outcome. It’s what stands them apart from the competition.
 
-### 3.Why does the organiztion do what they do?
+### 3. Why does the organiztion do what they do?
 
 It’s a purpose, cause or belief. It’s the very reason the organization's existence.
 
@@ -26,9 +26,9 @@ It’s a purpose, cause or belief. It’s the very reason the organization's exi
 
 <hr/>
 
-[<- Previous Page](./prerequisites.md)
+[<- Previous Page](./index.md)
 |
-[Next Page ->](./vision.md)
+[Next Page ->](./identity.md)
 
 <hr/>
 
