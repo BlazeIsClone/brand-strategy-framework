@@ -22,7 +22,7 @@ This is invaluable information to help us identify who we are and who we aren’
 
 [<- Previous Page](./index.md)
 |
-[Next Page ->](./purpose.md)
+[Next Page ->](./vision.md)
 
 <hr/>
 
