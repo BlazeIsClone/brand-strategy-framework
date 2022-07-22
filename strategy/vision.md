@@ -26,7 +26,7 @@ How will the organization’s success reflect on its society and how would thing
 
 Working on something achievable and obtainable will challenge people in the organization.
 
-### 7. What phrases or keywords describe the type of organization and outcome you seek for?
+### 7. What phrases or keywords describe the type of organization and the outcome you seek for?
 
 customer-centric, warmth, self-organized, inspire.
 
