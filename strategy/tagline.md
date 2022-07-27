@@ -2,7 +2,7 @@
 
 #### 1. What confuses people the most about what we do?
 
-#### 2. A paragraph that explains who you are and what you do?
+#### 2. A paragraph that explains who we are and what we do?
 
 #### 3. Condense that paragraph into one line and inject brand personality?
 
